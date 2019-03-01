@@ -8,4 +8,8 @@ Fork, implement, add tests, pull request, are more than welcom.
 
 ## Copyright
 
-Copyright (c) Omer Haim
+Copyright (c) 2019, Omer Haim
+
+## Licese
+
+See [License](./LICENSE) for more details
